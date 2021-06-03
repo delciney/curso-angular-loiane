@@ -4,7 +4,7 @@ Curso Angular - Loiane Groner
 ### Link do curso gratuito e com certificado:
 * [http://loiane.training/curso/angular/](http://loiane.training/curso/angular/)
 
-#### Introdução - Duração 01:54:13
+## Introdução - Duração 01:54:13
 * 01: Introdução + Arquitetura
 * 02: Ambiente de desenvolvimento
 * 03: Primeira app (Hello World)
@@ -14,7 +14,7 @@ Curso Angular - Loiane Groner
 * 07: Serviços (Services) e Injeção de dependência (DI)
 * 08: Dica de produtividade: code snippets
 
-#### Data binding e eventos - Duração 01:31:03
+## Data binding e eventos - Duração 01:31:03
 * 09: Property binding + Interpolation
 * 10: Class e Style binding
 * 11: Event binding
@@ -25,7 +25,7 @@ Curso Angular - Loiane Groner
 * 16: Acesso à variáveis locais do Template com ViewChild
 * Extra: Atualizações do RC 5 e ngModule
 
-#### Angular CLI: Introdução - Duração 01:17:00
+## Angular CLI: Introdução - Duração 01:17:00
 * 17: Angular CLI: Instalação e criação de projetos: ng new e ng serve
 * 18: Angular CLI: Criando components, services: ng generate
 * Extra: Angular CLI: atualizando para versão RC5 (webpack)
@@ -35,7 +35,7 @@ Curso Angular - Loiane Groner
 * 22: Angular CLI: Fazendo build
 * 23: Angular CLI: instalando bibliotecas (bootstrap, materialize, lodash, jquery, etc)
 
-#### Diretivas - Duração 01:58:59
+## Diretivas - Duração 01:58:59
 * 24: Introdução e tipos de diretivas no Angular 2
 * 25: ngIf
 * 26: ngSwitch
